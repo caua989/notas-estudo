@@ -13,8 +13,11 @@ git config --global
  
 ## SSH - como configurar a maquina para github
 
-git bash, definir pasta os documentos: cd Documents/(embaixo das aspas/enter)
- git clone (em baixo das aspas(url copiada do code SHH))
+git bash, definir pasta nos documentos: cd Documents/(embaixo das aspas/enter)
+ git clone (botao direito od mouse) ((paste)url copiada do code SHH))
+ cd (nome do repositorio)/
+ code .
+       
 
 ## como criar um repositorio
 
