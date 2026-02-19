@@ -14,3 +14,6 @@ git config --global
 ## SSH - como ocnfigurar a maquiiina para github
 
 ## como criar um repositorio
+
+
+
