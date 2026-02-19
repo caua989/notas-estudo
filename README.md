@@ -9,11 +9,9 @@ eu preciso determinar os seguintes comandos:
 ``` bash
 git config --global
 ```
-## como confiurar github
+## como configurar github
 
-## SSH - como ocnfigurar a maquiiina para github
+## SSH - como configurar a maquina para github
 
 ## como criar um repositorio
-
-
 
